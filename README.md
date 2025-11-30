@@ -1,1 +1,10 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h1fiJa_i)
+# Individual Assignment 3 (STAT545 B)
+
+This repository contains the required content for ***Assignment B3*** for STAT545. The assignment demonstrates ____. The shinyapp I created ____.
+
+## Repository Contents
+- **README.md** – Current document, summarizing the project structure and goals.  
+
+## Function Overview
+
+## Instructions to Run

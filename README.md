@@ -9,6 +9,7 @@ This repository contains the required content for ***Assignment B3*** for STAT54
 ## Repository Contents
 - **README.md** – Current document, summarizing the project structure and goals.  
 
-## Function Overview
+## ShinyApp Overview
 
-## Instructions to Run
+## Instructions For Use
+

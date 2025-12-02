@@ -1,0 +1,10 @@
+name: strains
+title:
+username: aliceh0ng
+account: aliceh0ng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16213518
+bundleId: 11261235
+url: https://aliceh0ng.shinyapps.io/strains/
+version: 1

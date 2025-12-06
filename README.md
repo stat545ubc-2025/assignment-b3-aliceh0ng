@@ -24,3 +24,8 @@ You can test out the app for youreslf at [https://aliceh0ng.shinyapps.io/strains
 Below is a video showing an example of exactly how this ShinyApp can be used.
 
 [![Demonstration](https://img.youtube.com/vi/XYgap6i-sXg/0.jpg)](https://www.youtube.com/watch?v=XYgap6i-sXg)
+
+If you're trying out the ShinyApp using my sample data, below is the 96-well plate layout I used for the experiment!
+<img width="1003" height="367" alt="Screenshot 2025-12-05 at 4 43 53 PM" src="https://github.com/user-attachments/assets/90c97f20-7517-4bc1-a36d-1896f214f087" />
+
+

@@ -12,11 +12,11 @@ There are four main features of this app:
 You can test out the app for youreslf at [https://aliceh0ng.shinyapps.io/strains/](https://aliceh0ng.shinyapps.io/strains/)
 
 ## Repository Contents
-- **README.md** – Current document, summarizing the project structure and goals.  
+- **README.md** – Current document, explaining the ShinyApp and features of the app.
 - **Reflection.md** - Statement on Gen AI use.
 - **Strains (Folder)** - Contains the code for the ShinyApp, 
   - **app.R** - Script for the ShinyApp
-  - **osmeE_antisense_08222023.xlsx** - Sample dataset to as demo
+  - **osmeE_antisense_08222023.xlsx** - Sample dataset to use as demo
   - **rsconnect** - folder containing deployment metadata from publishing ShinyApp
 
 ## ShinyApp Instructions For Use

@@ -23,3 +23,4 @@ You can test out the app for youreslf at [https://aliceh0ng.shinyapps.io/strains
 
 Below is a video showing an example of exactly how this ShinyApp can be used.
 
+[![Demonstration](https://img.youtube.com/vi/XYgap6i-sXg/0.jpg)](https://www.youtube.com/watch?v=XYgap6i-sXg)

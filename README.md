@@ -9,7 +9,7 @@ There are four main features of this app:
 - FEATURE 3: A slider control that lets you choose up to which row (timepoint index) of the dataset to display, so you can focus on a specific portion of the time course.
 - FEATURE 4: An upload option for BioTek `.xlsx` exports, plus an optional built-in example dataset so the app can be explored without providing your own file.
 
-You can test out the app for youreslf at [link_to_shinyapp.io](link_to_shinyapp.io)
+You can test out the app for youreslf at [https://aliceh0ng.shinyapps.io/strains/](https://aliceh0ng.shinyapps.io/strains/)
 
 ## Repository Contents
 - **README.md** – Current document, summarizing the project structure and goals.  
@@ -17,7 +17,9 @@ You can test out the app for youreslf at [link_to_shinyapp.io](link_to_shinyapp.
 - **Strains (Folder)** - Contains the code for the ShinyApp, 
   - **app.R** - Script for the ShinyApp
   - **osmeE_antisense_08222023.xlsx** - Sample dataset to as demo
+  - **rsconnect** - folder containing deployment metadata from publishing ShinyApp
 
 ## ShinyApp Instructions For Use
 
-Below is a video showing an example of exactly how this ShinyApp could be used.
+Below is a video showing an example of exactly how this ShinyApp can be used.
+
